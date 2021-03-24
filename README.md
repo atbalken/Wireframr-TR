@@ -1,4 +1,4 @@
-# wireframr
+# Wireframr-TR
 
 Updated the original plugin with Comic Neue font. 
 
