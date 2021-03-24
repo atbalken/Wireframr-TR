@@ -42,8 +42,8 @@ function wireframeSelection(selection) {
         element.style.syncWithSharedStyle(wrfrmrSharedStyle);
       }
     } else if (element.type === "Text") {
-      element.style.fontFamily = "Source Sans Pro";
-      if (element.style.fontFamily !== "Source Sans Pro") {
+      element.style.fontFamily = "Comic Neue";
+      if (element.style.fontFamily !== "Comic Neue") {
         element.style.fontSize = element.style.fontSize - 2;
       }
       element.style.textColor = "#333333";
