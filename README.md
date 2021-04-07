@@ -1,8 +1,6 @@
 # Wireframr-TR
 
-Updated the original plugin with Comic Neue font. 
-
-
+**Updated the original plugin with Comic Neue font.**
 
 First, [download the Comic Neue font](Comic_Neue.zip) and install it into FontBook.
 
